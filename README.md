@@ -111,3 +111,13 @@ def detail(request, id):
 
     return render(request, 'detail.html', context)
 ```
+
+### 2. Create
+- 사용자에게 데이터 받고, 저장
+
+
+### 3. Delete
+
+
+### 4. Update
+    - create 로직과 read 로직의 합
